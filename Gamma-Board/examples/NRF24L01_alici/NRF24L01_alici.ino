@@ -1,11 +1,11 @@
+/* PHOTONTECH */
+
 /*
    NRF24L01 Rf haberleşme Sensörü
 
    Rf haberleşme sensörü kullanılarak yapılan haberleşme uygulamasının alıcı kodu.
 
-   Düzenleme 26.01.2021 - Yusuf Enes TATAR
-
-   Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+   Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
 
    https://github.com/PhotonTechnologyCodeSpace/Gamma-Board
 
