@@ -1,12 +1,11 @@
+/* PHOTONTECH */
+
 /*
   Nokia 5110 LCD
 
-  Nokia 5110 ekranı kullanılarak ekrana yazı yazma uygulaması yapıldı.
-
-  Düzenleme 27.12.2020 - Uğur Koyun
-  Düzenleme 09.01.2021 - Yusuf Enes TATAR 
+  Nokia 5110 ekranı kullanılarak ekrana yazı yazma uygulaması yapıldı. 
   
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
 
   https://github.com/PhotonTechnologyCodeSpace/Beta-Board
 
