@@ -3,7 +3,7 @@
 /*
   RGB Led
    
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
 
   https://github.com/PhotonTechnologyCodeSpace/Beta-Board
 
