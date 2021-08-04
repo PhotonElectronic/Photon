@@ -1,14 +1,12 @@
+/* PHOTONTECH */
 /*
   Led_Yakma
   
   Bir pin'e bir saniye boyunca 5V (HIGH) ve ardından bir saniye boyunca 0V (LOW) gerilim uygular.
   ALPHA-BOARD üzerindeki yerleşik biçimde bulunan ledlerin bağlı olduğu pinler (D3,D4,D5)
   bu örnek kod ile kontrol edilebilir.
-
-  Düzenleme 12.12.2020 - Yusuf Enes TATAR
-  Düzenleme 26.12.2020 - Uğur Koyun
    
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
   
   https://github.com/PhotonTechnologyCodeSpace/Alpha-Board
 */
