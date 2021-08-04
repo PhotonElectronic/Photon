@@ -1,8 +1,7 @@
+/* PHOTONTECH */
+
 /*
   RGB Led
-
-  Düzenleme 27.12.2020 - Uğur Koyun
-  Düzenleme 09.01.2024 - Yusuf Enes TATAR
    
   Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
 
