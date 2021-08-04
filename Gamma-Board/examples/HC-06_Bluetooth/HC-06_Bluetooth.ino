@@ -1,11 +1,11 @@
+/* PHOTONTECH */
+
 /*
    HC-06 Bluetooth Modülü
 
    HC-06 Bluetooth modülü kullanılarak bluetooth destekli cihazlarla haberleşme uygulaması.
 
-  Düzenleme 26.01.2021 - Yusuf Enes TATAR
-
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
 
   https://github.com/PhotonTechnologyCodeSpace/Gamma-Board
 
