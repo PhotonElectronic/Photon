@@ -1,15 +1,11 @@
 
+/* PHOTONTECH */
 /*
   Buzzer
   
   11.pin'e bağlı buzzer'ın kademeli şiddetlerde öttürülmesi gerçekleştirilmiştir.
-
-  Düzenleme 26.12.2020 - Uğur Koyun
-  Düzenleme 29.12.2020 - Yusuf Enes TATAR
   
-  
-  
-  Bu örnek kod PHOTON TECHNOLOGY tarafından kamuya sunulmuştur.
+  Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
   
   https://github.com/PhotonTechnologyCodeSpace/Alpha-Board
  
